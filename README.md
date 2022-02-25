@@ -47,6 +47,7 @@ yarn install
 
 ```python
    I feel the loading state could be handled a bit better than how I did it
+   Testing (unit or e2e) is a vital improvement for the mini pokemon app
 ```
 
 ## Contributing
